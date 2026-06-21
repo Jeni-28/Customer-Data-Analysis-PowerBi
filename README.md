@@ -11,7 +11,7 @@ Retail businesses generate huge volumes of transactional data, but raw numbers a
 
 | Metric | Value |
 |---|---|
-| Total Sales | 251.51M (TL) |
+| Total Sales | 251.51M |
 | Total Transactions | 99.457K |
 | Total Products Sold | 299K |
 | Time Period | 2021 – 2023 |
