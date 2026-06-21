@@ -1,4 +1,4 @@
-# Customer Data Analysis — Power BI Dashboard
+# Customer Data Analysis — Power BI 
 
 An end-to-end Power BI project analyzing customer shopping behavior across 10 shopping malls in Istanbul (2021–2023). The project covers data cleaning, DAX-based feature engineering, interactive dashboard design, and business recommendations derived from the insights.
 
